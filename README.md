@@ -1,2 +1,2 @@
 # frontend
-Holds frontend cod
+Holds frontend code
